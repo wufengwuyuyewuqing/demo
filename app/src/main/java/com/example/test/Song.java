@@ -9,9 +9,7 @@ public class Song extends LitePalSupport {
     private String name;
 
     private int duration;
-
-
-
+    private  int time;
 
     @Column(ignore = true)
     private String uselessField;
