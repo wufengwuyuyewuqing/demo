@@ -18,6 +18,8 @@ public class Song extends LitePalSupport {
     private  int  fase2;
 
     private  int  fenzhi1;
+
+    private  int  ceshizhufu1;
     @Column(ignore = true)
     private String uselessField;
 
